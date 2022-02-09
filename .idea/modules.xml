@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MediscreesByPoseidon.iml" filepath="$PROJECT_DIR$/.idea/MediscreesByPoseidon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetSpringvidepourModele.iml" filepath="$PROJECT_DIR$/ProjetSpringvidepourModele.iml" />
     </modules>
   </component>
 </project>
